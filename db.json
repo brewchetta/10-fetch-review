@@ -3,27 +3,38 @@
         {
             "id": 1,
             "award_name": "Best Picture",
-            "winner": "Anora"
+            "winner": "Anora",
+            "movie": "Anora"
         },
         {
             "id": 2,
             "award_name": "Best Actor",
-            "winner": "Adrien Brody"
+            "winner": "Adrien Brody",
+            "movie": "The Brutalist"
         },
         {
             "id": 3,
             "award_name": "Best Actress",
-            "winner": "Mikey Madison"
+            "winner": "Mikey Madison",
+            "movie": "Anora"
         },
         {
             "id": 4,
             "award_name": "Best Actor in a Supporting Role",
-            "winner": "Kieran Culkin"
+            "winner": "Kieran Culkin",
+            "movie": "A Real Pain"
         },
         {
             "id": 5,
             "award_name": "Best Actress in a Supporting Role",
-            "winner": "Zoe Saldaña"
+            "winner": "Zoe Saldaña",
+            "movie": "Emilia Pérez"
+        },
+        {
+            "id": 6,
+            "award_name": "Best Writing",
+            "winner": "Sean Baker",
+            "movie": "Anora"
         }
     ]
 }
