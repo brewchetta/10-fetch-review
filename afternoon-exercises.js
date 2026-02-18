@@ -1,7 +1,7 @@
 // Afternoon Exercises Part 2
 const BASE_URL = "https://goweather.xyz/weather/"
 
-// 1. Choose a default city. This can be a city close to you or alternately "NewYorkCity" if you believe NYC. Your city isn't guaranteed to be in the API so test in the browser by going to https://goweather.xyz/weather/YOUR_CITY_HERE.
+// 1. Choose a default city. This can be a city close to you or alternately "NewYorkCity". Your city isn't guaranteed to be in the API so test in the browser by going to https://goweather.xyz/weather/YOUR_CITY_HERE.
 
 // Once you have tested your city, create a let for currentCity.
 

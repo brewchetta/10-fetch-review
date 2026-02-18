@@ -9,4 +9,4 @@ const BASE_URL = "http://localhost:3000/raccoons"
 
 // 4. If a raccoon does not have an `image_url`, use a default stock raccoon image instead.
 
-// RETURN AT 3:22 EST
+// RETURN AT 3:30 EST
