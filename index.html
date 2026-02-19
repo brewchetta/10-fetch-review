@@ -61,6 +61,7 @@
 
     <section>
         <h2>Current Weather</h2>
+        <p id="loading-indicator">Loading...</p>
         <h3>for <span id="current-city-name">CITY GOES HERE</span></h3>
 
         <p>Temperature: <span id="temp-today">0</span> farenheit</p>
@@ -76,6 +77,13 @@
         
         <p><span id="day-3-forecast">0</span> farenheit</p>
     </section>
+
+    <form id="current-city-form">
+        <label for="current-city-input">Get forecast for:</label>
+        <input id="current-city-input" type="text">
+
+        <input type="submit" value="Search">
+    </form>
     
 </body>
 </html>
